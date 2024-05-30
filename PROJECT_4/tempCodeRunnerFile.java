@@ -1,0 +1,1 @@
+// Sudoku sudoku2 = new Sudoku(20);
